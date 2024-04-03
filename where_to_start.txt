@@ -1,0 +1,13 @@
+- create HTML structure
+  - main section with div container card
+  - container card contains image-div and text-div
+  - text-div has heading and paragraph
+  - accessability tags: main, section, img
+
+- CSS notes
+  - 100vh
+  - card background white, rounded corners, light shadow
+  - h1 needs a set size
+  - image has rounded corners
+  - center card with margin auto
+  - fixed width for card
